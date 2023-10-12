@@ -1,16 +1,9 @@
 # zodiac_guide
 
-A new Flutter project.
+A Flutter project.
 
-## Getting Started
+## ScreenShots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="250" src="https://github.com/ademhatay/zodiac-guide/assets/66277966/94e31673-3d1a-470f-8049-bad1f2e175ad" />
+<img width="250" src="https://github.com/ademhatay/zodiac-guide/assets/66277966/c5d0db86-8829-44f0-b48c-50ac83030621" />
+<img width="250" src="https://github.com/ademhatay/zodiac-guide/assets/66277966/f8fa524c-2ac2-4379-808b-2dd7da98b024" />
